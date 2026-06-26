@@ -1,0 +1,38 @@
+[
+  {
+    "ecValidationDate": "24-06-2026 16:35:58",
+    "reference": "2026.5593",
+    "subject": "Too high level of glycidyl esters in growing-up milk from Spain",
+    "productCategory": "milk and milk products",
+    "productType": "food",
+    "riskDecision": "serious",
+    "notificationClassification": "alert notification",
+    "notifyingCountry": "Belgium",
+    "originCountries": "Spain",
+    "notifId": 853479
+  },
+  {
+    "ecValidationDate": "24-06-2026 16:26:36",
+    "reference": "2026.5592",
+    "subject": "3-MCPD and Glycidol in Rice Crackers from Thailand",
+    "productCategory": "cereals and bakery products",
+    "productType": "food",
+    "riskDecision": "potentially serious",
+    "notificationClassification": "information notification for follow-up",
+    "notifyingCountry": "Germany",
+    "originCountries": "Thailand",
+    "notifId": 853369
+  },
+  {
+    "ecValidationDate": "24-06-2026 15:34:04",
+    "reference": "2026.5590",
+    "subject": "Niedozwolony składnik w suplemencie diety/// Prohibited ingredient in a food supplement ",
+    "productCategory": "dietetic foods, food supplements and fortified foods",
+    "productType": "food",
+    "riskDecision": "potentially serious",
+    "notificationClassification": "information notification for attention",
+    "notifyingCountry": "Poland",
+    "originCountries": "Hong Kong",
+    "notifId": 853595
+  }
+]
